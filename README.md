@@ -7,7 +7,7 @@ By [Naimur Rahman](https://github.com/nayeem-rafi)
 This MATLAB project demonstrates how to interactively crop a circular portion of an image and apply a Gaussian blur filter to the cropped region. It showcases the practical use of image processing techniques such as cropping, filtering, and channel-wise manipulation of an image.
 
 # Description
- This MATLAB script allows users to crop an image in a circular region and apply a Gaussian blur to that area. The user selects the center and edge of the circular region interactively. A Gaussian filter is then applied to blur the selected area, and the final image with the blurred circular crop is displayed.
+ This MATLAB script allows users to crop an image in a circular region and apply a Gaussian blur to that area. The user selects the center and edge of the circular region interactively. A Gaussian filter is then applied to blur the selected area, and the final image with the blurred circular crop is displayed in GRAY SCALE.
 
 ### Objective
 The primary goals of this project are to:
