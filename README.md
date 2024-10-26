@@ -41,7 +41,7 @@ The filter is applied separately to each color channel (red, green, and blue) us
 <h1 align= "center">
 
 
-**Circle Position Blurred**
+**Circle Position Blurred in Gray Scale**
 </h1>
 <p align="center">
 <img src="https://github.com/user-attachments/assets/b1b488e1-af1b-4aa5-ab41-db75db01dbe6", width="620">
